@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
+.validation-error {
+  text-align: left;
+  color: crimson
+}
+
 .gender-label {
   margin-right: 10px;
 }
